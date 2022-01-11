@@ -22,7 +22,7 @@ script:
   keep-history: true
   local_dir: build
   # Git branch on which it should deploy (master, gh-pages, foo...)
-  target_branch: gh-pages
+  # target_branch: gh-pages
   on:
     # Which branch on commit/push will trigger deployment
     branch: master
