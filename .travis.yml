@@ -5,6 +5,7 @@ cache:
   yarn install
   
 script:
+  - yarn start
   - yarn test 
   - yarn run build # Generate static HTML files
 
