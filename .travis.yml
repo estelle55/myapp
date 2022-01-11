@@ -2,11 +2,11 @@ language: node_js
 node_js:
   - 14.16.0
 cache:
-  yarn install
+  npm install
   
 script:
-  - yarn test 
-  - yarn run build # Generate static HTML files
+  - npm test 
+  - npm run build # Generate static HTML files
 
 deploy:
   provider: pages
