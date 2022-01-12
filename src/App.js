@@ -9,14 +9,6 @@ function App() {
         <p>
          <h1>MY first app with react , using travis ci and github page for deployement</h1>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
