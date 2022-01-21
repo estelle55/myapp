@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         <h1>My second app with REACT JS , using TRAVIS CI and GITHUB PAGES for deployement</h1>
+         <h1>My FIRST app with REACT JS , using TRAVIS CI and GITHUB PAGES for deployement</h1>
         </p>
         <a
           className="App-link" 
