@@ -6,7 +6,7 @@ cache:
   
 script:
   - yarn test 
-  - yarn run build # Generate static HTML files
+  - yarn run build 
 
 deploy:
   # Use Github pages deploy process
