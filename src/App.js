@@ -10,7 +10,7 @@ function App() {
          <h1>My second app with REACT JS , using TRAVIS CI and GITHUB PAGES for deployement</h1>
         </p>
         <a
-          className="App-link"
+          className="App-link" 
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
